@@ -1,0 +1,36 @@
+{
+    "powerplay":[
+    {
+        "id": 1,
+        "title": "Slow Horses",
+        "type": "TV Show",
+        "genre":"Thriller",
+        "url": "https://tv.apple.com/show/umc.cmc.2233445566",
+        "poster": "https://is1-ssl.mzstatic.com/image/thumb/bArDzA292bd3Xk7rKhn42Q/800x1000BDT.TVAES01.webp?color=161D1D"
+    },
+    {
+        "id": 2,
+        "title": "Bad Monkey",
+        "type": "TV Show",
+        "genre":"Comedy",
+        "url": "https://tv.apple.com/movie/umc.cmc.1234567890",
+        "poster": "https://is1-ssl.mzstatic.com/image/thumb/vjyzsG6pMcnkCa4vAv9E3g/800x1000BDT.TVAES01.webp?color=F1C13E"
+    },
+    {
+        "id": 3,
+        "title": "MurderBot",
+        "type": "TV Show",
+        "genre":"Sci-Fi",
+        "url": "https://tv.apple.com/show/umc.cmc.1122334455",
+        "poster": "https://is1-ssl.mzstatic.com/image/thumb/HHXPEHkAVqn_FMswNRTMtQ/800x1000BDT.TVAES01.webp?color=E8F4EA"
+    },
+      {
+        "id": 4,
+        "title": "ghosted",
+        "type": "TV Show",
+        "genre":"Action",
+        "url": "https://tv.apple.com/show/umc.cmc.1122334455",
+        "poster": "https://is1-ssl.mzstatic.com/image/thumb/jQb6_H0sn5TpR4e5KQgVWA/800x1000BDT.TVAES01.webp?color=7B4B31"
+    }
+]
+}

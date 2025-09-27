@@ -1,0 +1,124 @@
+{
+    "stories" : [
+  {
+    "id" : 1,
+    "title": "Assist: Messi vs. NYC, 90+10′",
+    "type": "Bonus",
+    "genre": "Football",
+     "poster": "https://is1-ssl.mzstatic.com/image/thumb/ODPCLD2hi3mLDczdyL61xQ/580x326.webp",
+    "description": "NYC’s tall task: Limit Leo’s playmaking, which they didn’t do in the season opener."
+  },
+  {
+    "id" : 2,
+    "title": "Star of the Day: Denis Bouanga",
+    "type": "Notable Moments",
+    "genre": "Football",
+     "poster": "https://is1-ssl.mzstatic.com/image/thumb/eSXfnYd4NfeXYJn4zZuJBA/580x326.webp",
+    "description": "LAFC’s forward scores a hat trick to beat RSL and catch Leo in the Golden Boot race."
+  },
+  {
+    "id" : 3,
+    "title": "Plays of the Day: September 7, 2025",
+    "type": "Notable Moments",
+    "genre": "Football",
+     "poster": "https://is1-ssl.mzstatic.com/image/thumb/WUnJLD7ftzNfGqeNPPba8A/580x326.webp",
+    "description": "Relive sizzling highlights that lit up the pitch."
+  },
+  {
+    "id" : 4,
+    "title": "Goal: Messi vs. SEA, 41′",
+    "type": "Key Plays",
+    "genre": "Football",
+     "poster": "https://is1-ssl.mzstatic.com/image/thumb/0NMmrWUJpzEMYMIl9jAmiw/580x326.webp",
+    "description": "Locked in a tight Golden Boot race, Leo makes a run and taps in his 20th of the year."
+  },
+  {
+    "id" : 5,
+    "title": "Goal: D. Bouanga vs. RSL, 88′",
+    "type": "Key Plays",
+    "genre": "Football",
+     "poster": "https://is1-ssl.mzstatic.com/image/thumb/7ayxdUXbyHNFycd0Fc8BSg/580x326.webp",
+    "description": "Denis nets his 94th for LAFC to pass Vela as the Black & Gold’s all-time leading scorer."
+  },
+  {
+    "id" : 6,
+    "title": "Hat Trick: S. Heung-Min vs. RSL",
+    "type": "Notable Moments",
+    "genre": "Football",
+     "poster": "https://is1-ssl.mzstatic.com/image/thumb/tvaMBMc_hSgwiNlchK2W1A/580x326.webp",
+    "description": "Living up to the hype: Son scores two early and adds one late in a memorable win."
+  },
+  {
+    "id" : 7,
+    "title": "Star of the Day: Idan Toklomati",
+    "type": "Notable Moments",
+    "genre": "Football",
+     "poster": "https://is1-ssl.mzstatic.com/image/thumb/Juvov6JAtbNBQeJBjW9_gg/580x326.webp",
+    "description": "Against Messi and Co, the striker’s hat trick secures Charlotte’s ninth-straight win."
+  },
+  {
+    "id" : 8,
+    "title": "Plays of the Day: September 13, 2025",
+    "type": "Notable Moments",
+    "genre": "Football",
+     "poster": "https://is1-ssl.mzstatic.com/image/thumb/RrnoqPjG73jh4PzRtlXT4w/580x326.webp",
+    "description": "Relive sizzling highlights that lit up the pitch."
+  },
+  {
+    "id" : 9,
+    "title": "T. Müller, 9.13.25",
+    "type": "Interview",
+    "genre": "Football",
+     "poster": "https://is1-ssl.mzstatic.com/image/thumb/ZiHJ67IKn8lEiqEH_To2qw/580x326.webp",
+    "description": "The vibes are great in Vancouver and Thomas is ecstatic after a huge 7–0 win."
+  },
+  {
+    "id" : 10,
+    "title": "Sebastian Sounds Off",
+    "type": "Interview",
+    "genre": "Football",
+     "poster": "https://is1-ssl.mzstatic.com/image/thumb/_Qxrs8shrafZWF25hobF9w/580x326.webp",
+    "description": "Vancouver’s midfielder chats about team chemistry and Müller’s birthday hat trick."
+  },
+  {
+    "id" : 11,
+    "title": "Cloud Nine",
+    "type": "Notable Moments",
+    "genre": "Football",
+     "poster": "https://is1-ssl.mzstatic.com/image/thumb/z474Z6z-1x6lGxzoxd0qWA/580x326.webp",
+    "description": "Experts go over Charlotte’s nine-game win streak and the key players to that run."
+  },
+  {
+    "id" : 12,
+    "title": "Cincy Clinches",
+    "type": "Notable Moments",
+    "genre": "Football",
+     "poster": "https://is1-ssl.mzstatic.com/image/thumb/uEXSkcatFiDJy2t0dvtQiQ/580x326.webp",
+    "description": "Wrap-Up says FCC’s playoff-clinching win is a confidence boost the club needed."
+  },
+  {
+    "id" : 13,
+    "title": "D. St. Clair, 9.13.25",
+    "type": "Interview",
+    "genre": "Football",
+     "poster": "https://is1-ssl.mzstatic.com/image/thumb/ibWA-6za0UwpeT4ZDe1Wbw/580x326.webp",
+    "description": "After his 12-save night, the keeper says Minny are capable of finishing atop the West."
+  },
+  {
+    "id" : 14,
+    "title": "A Ref’s POV",
+    "type": "Notable Moments",
+    "genre": "Football",
+     "poster": "https://is1-ssl.mzstatic.com/image/thumb/Z5qgPAGUXJOdlFjvWywaIw/580x326.webp",
+    "description": "Innovation on the pitch: A referee dons a camera during LAFC’s win at Levi’s Stadium."
+  },
+  {
+    "id" : 15,
+    "title": "Hat Trick: D. Bouanga vs. SJ, 9.13.25",
+    "type": "Notable Moments",
+    "genre": "Football",
+     "poster": "https://is1-ssl.mzstatic.com/image/thumb/i1bI1l73g0qt57ROg5gENQ/580x326.webp",
+    "description": "Denis takes over the Bay and ties Carlos Vela as LAFC’s all-time leading scorer."
+  }
+]
+}

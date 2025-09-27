@@ -1,0 +1,244 @@
+{
+"Foryou" : [
+  {
+    "id": 1,
+    "title": "Shantaram",
+    "type": "TV Show",
+    "url": "https://tv.apple.com/show/umc.cmc.1122334455",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/PWsYggMXgU6kQrxaB3MZPQ/580x326.webp",
+    "genre": "Dramas"
+  },
+  {
+    "id": 2,
+    "title": "Drops of God",
+    "type": "Movie",
+    "url": "https://tv.apple.com/movie/umc.cmc.1234567890",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/OCdJtCx9e51TYxoG8aBJZQ/580x326.webp",
+    "genre": "Mystery"
+  },
+  {
+    "id": 3,
+    "title": "Women in Blue",
+    "type": "TV Show",
+    "url": "https://tv.apple.com/show/umc.cmc.2233445566",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/AEH6bOZttuoXVkIuKffWVA/580x326.webp",
+    "genre": "Crime"
+  },
+  {
+    "id": 4,
+    "title": "MurderBot",
+    "type": "Movie",
+    "url": "https://tv.apple.com/movie/umc.cmc.7788990011",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/Wk5tKXFA4Zr4in8sDkQeYA/580x326.webp",
+    "genre": "Sci-Fi"
+  },
+  {
+    "id": 5,
+    "title": "Now & Then",
+    "type": "TV Show",
+    "url": "https://tv.apple.com/show/umc.cmc.5566778899",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/5SQrBAWXONSSRweUSmuRyg/580x326.webp",
+    "genre": "Thriller"
+  },
+  {
+    "id": 6,
+    "title": "Shining Girls",
+    "type": "Movie",
+    "url": "https://tv.apple.com/movie/umc.cmc.8899001122",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/fiTyznFr4Rsvd25TNhffww/580x326.webp",
+    "genre": "Psychological"
+  },
+  {
+    "id": 7,
+    "title": "KPoped",
+    "type": "TV Show",
+    "url": "https://tv.apple.com/show/umc.cmc.6677889900",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/FbHUrZvpmWFMLwIjTP669w/580x326.webp",
+    "genre": "Music"
+  },
+  {
+    "id": 8,
+    "title": "Pre Historic Planet",
+    "type": "Movie",
+    "url": "https://tv.apple.com/movie/umc.cmc.5566778899",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/JSxs4CLlqnUQveG_VIPDww/580x326.webp",
+    "genre": "Documentary"
+  },
+  {
+    "id": 9,
+    "title": "Amazing Stories",
+    "type": "TV Show",
+    "url": "https://tv.apple.com/show/umc.cmc.8899001122",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/hMPxF7vkj44eqAbnFymHDQ/580x326.webp",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 10,
+    "title": "Land of Women",
+    "type": "Movie",
+    "url": "https://tv.apple.com/movie/umc.cmc.2233445566",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/bAYwyYOKbVDK-JLBqGLLqg/580x326.webp",
+    "genre": "Romance"
+  },
+  {
+    "id": 11,
+    "title": "Pachinko",
+    "type": "Movie",
+    "url": "https://tv.apple.com/movie/umc.cmc.1122334455",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/iUZiuKb8A9o5jIx0hJSvjw/580x326.webp",
+    "genre": "Historical"
+  },
+  {
+    "id": 12,
+    "title": "Little Voice",
+    "type": "Movie",
+    "url": "https://tv.apple.com/movie/umc.cmc.2233445566",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/_ODFuW8DJbcFSHL_yhHuVA/580x326.webp",
+    "genre": "Musical"
+  },
+  {
+    "id": 13,
+    "title": "Disclaimer",
+    "type": "Movie",
+    "url": "https://tv.apple.com/movie/umc.cmc.3344556677",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/rQ9tx4HlD7su-j1sVFPebg/580x326.webp",
+    "genre": "Thriller"
+  },
+  {
+    "id": 14,
+    "title": "Tiny World",
+    "type": "Movie",
+    "url": "https://tv.apple.com/movie/umc.cmc.4455667788",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/6kPVBOcFxH5eWRVp9Vy9BA/580x326.webp",
+    "genre": "Nature"
+  },
+  {
+    "id": 15,
+    "title": "The New Look",
+    "type": "Movie",
+    "url": "https://tv.apple.com/movie/umc.cmc.5566778899",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/e8pByK295xcA6sVJEP-R5g/580x326.webp",
+    "genre": "Biography"
+  },
+  {
+    "id": 16,
+    "title": "Swan Song",
+    "type": "Movie",
+    "url": "https://tv.apple.com/movie/umc.cmc.6677889900",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/k-4X4dDwJrtXlsgr1VI_0w/580x326.webp",
+    "genre": "Dramas"
+  },
+  {
+    "id": 17,
+    "title": "The Essex Serpent",
+    "type": "Movie",
+    "url": "https://tv.apple.com/movie/umc.cmc.7788990011",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/2hSgeI8AyyKcpu_6Rhwg1w/580x326.webp",
+    "genre": "Mystery"
+  },
+  {
+    "id": 18,
+    "title": "Hala",
+    "type": "Movie",
+    "url": "https://tv.apple.com/movie/umc.cmc.8899001122",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/Ru8FEVLXR20CLzgnt9UXOQ/580x326.webp",
+    "genre": "Coming-of-Age"
+  },
+  {
+    "id": 19,
+    "title": "Palm Royale",
+    "type": "Movie",
+    "url": "https://tv.apple.com/movie/umc.cmc.9900112233",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/EubK_TDtQfyCj_ibM2KR3A/580x326.webp",
+    "genre": "Comedies"
+  },
+  {
+    "id": 20,
+    "title": "Masters of The Air",
+    "type": "Movie",
+    "url": "https://tv.apple.com/movie/umc.cmc.1011122334",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/cXVsKbD0Sk-ogzcoNmj6aA/580x326.webp",
+    "genre": "War"
+  },
+  {
+    "id": 21,
+    "title": "Coda",
+    "type": "Movie",
+    "url": "https://tv.apple.com/movie/umc.cmc.1112132445",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/zRCSBlp0LjwClRXsjyDNYQ/580x326.webp",
+    "genre": "Dramas"
+  },
+  {
+    "id": 22,
+    "title": "The Changeling",
+    "type": "Movie",
+    "url": "https://tv.apple.com/movie/umc.cmc.1213143556",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/OEhJPhCZHH1Om5hMjpcQew/580x326.webp",
+    "genre": "Horror"
+  },
+  {
+    "id": 23,
+    "title": "The Crowded Room",
+    "type": "Movie",
+    "url": "https://tv.apple.com/movie/umc.cmc.1314154667",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/xSOE_hBrpiEDdAZqAcx2MQ/580x326.webp",
+    "genre": "Dramas"
+  },
+  {
+    "id": 24,
+    "title": "The Me You Can't See",
+    "type": "Movie",
+    "url": "https://tv.apple.com/movie/umc.cmc.1415165778",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/d7Ok_P3_ccVfvdIkoozbCg/580x326.webp",
+    "genre": "Documentary"
+  },
+  {
+    "id": 25,
+    "title": "Earth At Night in Color",
+    "type": "Movie",
+    "url": "https://tv.apple.com/movie/umc.cmc.1516176889",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/xW-YFC38wO80XQewW5Mn7A/580x326.webp",
+    "genre": "Nature"
+  },
+  {
+    "id": 26,
+    "title": "Loot",
+    "type": "Movie",
+    "url": "https://tv.apple.com/movie/umc.cmc.1617187990",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/dGQnmrXQqSe_YJJV1kcudQ/580x326.webp",
+    "genre": "Comedies"
+  },
+  {
+    "id": 27,
+    "title": "Idris Elba Hijack",
+    "type": "Movie",
+    "url": "https://tv.apple.com/movie/umc.cmc.1718199001",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/TFK62rQMTTWVNoPgxjIkPQ/580x326.webp",
+    "genre": "Action"
+  },
+  {
+    "id": 28,
+    "title": "Slow Horses",
+    "type": "Movie",
+    "url": "https://tv.apple.com/movie/umc.cmc.1819200112",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/S2T1FMcov5a0GzmninlU4Q/580x326.webp",
+    "genre": "Spy"
+  },
+  {
+    "id": 29,
+    "title": "Midnight Family",
+    "type": "Movie",
+    "url": "https://tv.apple.com/movie/umc.cmc.1920211223",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/9jrSwvU7_nJae4k5lezE5A/580x326.webp",
+    "genre": "Dramas"
+  },
+  {
+    "id": 30,
+    "title": "Shrinking",
+    "type": "Movie",
+    "url": "https://tv.apple.com/movie/umc.cmc.2021222334",
+    "poster": "https://is1-ssl.mzstatic.com/image/thumb/C34jADlGtR5wObjPAMbW4w/580x326.webp",
+    "genre": "Comedies"
+  }
+]
+}

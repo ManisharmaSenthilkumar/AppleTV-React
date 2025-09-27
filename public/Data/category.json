@@ -1,0 +1,46 @@
+{
+    "category":[
+    {
+        "id": 1,
+        "title": "Coming to Apple TV+",
+        "color": "bg-gradient-to-br from-yellow-800 to-yellow-400",
+        "poster": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/70/98/a1/7098a1ed-4b74-da83-68ea-58b8057ea0c1/de7f279c-e276-4aa9-ad51-1a189cd12663.png/580x326fe.webp"
+    },
+    {
+        "id": 2,
+        "title": "Kids & Family",
+        "color": "bg-gradient-to-br from-yellow-600 to-pink-400",
+        "poster": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/6d/f6/0d/6df60d11-df1d-13ed-6d0b-492f5827d146/c264cb7e-cedd-4d6e-8acf-0a9f2a20188b.png/580x326fe.webp"
+    },
+    {
+        "id": 3,
+        "title": "Sci-Fi",
+        "color": "bg-gradient-to-br from-indigo-800 to-teal-500",
+        "poster": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/34/93/e6/3493e6ce-94bd-ff7e-7d60-6664b9e22dae/c2331cd9-25b8-49ad-bbd7-c95a97dd15d9.png/580x326fe.webp"
+    },
+    {
+        "id": 4,
+        "title": "Nonfiction",
+        "color": "bg-gradient-to-br from-green-700 to-green-400",
+        "poster": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/2c/eb/22/2ceb22b5-7483-a082-a15b-8f140654a19d/4158cbd4-e4c9-4baa-86f0-1699396bff22.png/580x326fe.webp"
+    },
+    {
+        "id": 5,
+        "title": "Movies",
+        "color": "bg-gradient-to-br from-purple-800 to-purple-500",
+        "poster": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/11/62/be/1162be2c-113e-9096-7c44-12894be36399/cda3c016-dbd7-4a6e-b943-d69ca6bd6f15.png/580x326fe.webp"
+    },
+    {
+        "id": 6,
+        "title": "Comedies",
+        "color": "bg-gradient-to-br from-purple-800 to-purple-500",
+        "poster": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/6b/6c/3d/6b6c3d6a-a345-78ad-24f3-688d46cb43a7/7ace6f43-52f6-4553-b0db-5d6b1085565c.png/580x326fe.webp"
+    },
+    {
+        "id": 7,
+        "title": "Dramas",
+        "color": "bg-gradient-to-br from-purple-800 to-purple-500",
+        "poster": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/61/80/90/61809066-d436-57b8-bdc4-f35fb4e586fe/e9e5be5e-9426-4b46-b727-35aae1105870.png/580x326fe.webp"
+    }
+]
+}
