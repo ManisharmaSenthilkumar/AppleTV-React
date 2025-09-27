@@ -1,0 +1,144 @@
+{
+  "Mustsee": [
+    {
+      "id": 1,
+      "title": "Ted Lasso",
+      "type": "TV Show",
+      "genre": "Comedy",
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/yz8wdRYi6Dput1ZLlsV0MA/580x326.webp"
+    },
+    {
+      "id": 2,
+      "title": "Severence",
+      "type": "TV Show",
+      "genre": "Thriller",
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/EUeDAPovZrBtOcrP2Da5Lw/580x326.webp"
+    },
+    {
+      "id": 3,
+      "title": "Shrinking",
+      "type": "TV Show",
+      "genre": "Comedy",
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/C34jADlGtR5wObjPAMbW4w/580x326.webp"
+    },
+    {
+      "id": 4,
+      "title": "Silo",
+      "type": "TV Show",
+      "genre": "Sci-Fi",
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/LEDx4gCVQd_lTJt81zQq8w/580x326.webp"
+    },
+    {
+      "id": 5,
+      "title": "Jason Momoa See",
+      "type": "Movie",
+      "genre": "Nonfiction",
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/v_Oue2lmChyhjAfjMi_0eg/580x326.webp"
+    },
+    {
+      "id": 6,
+      "title": "Chief of War",
+      "type": "TV Show",
+      "genre": null,
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/twLCcLLXmcLBqEf3Af3vww/580x326.webp"
+    },
+    {
+      "id": 7,
+      "title": "Invasion",
+      "type": "TV Show",
+      "genre": null,
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/76HMwZ8974tWz_042k2vig/580x326.webp"
+    },
+    {
+      "id": 8,
+      "title": "Foundation",
+      "type": "TV Show",
+      "genre": "Sci-Fi",
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/Xye2zsX5gxLetoLRdTgNLA/580x326.webp"
+    },
+    {
+      "id": 9,
+      "title": "The Morning Show",
+      "type": "TV Show",
+      "genre": "Dramas",
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/Yb3h7gN9sCd6czLGOU4Ikg/580x326.webp"
+    },
+    {
+      "id": 10,
+      "title": "Slow Horses",
+      "type": "TV Show",
+      "genre": "Thriller",
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/Hfukww-HLCzjsrOLVJUcIw/580x326.webp"
+    },
+    {
+      "id": 11,
+      "title": "Tehran",
+      "type": "TV Show",
+      "genre": "Thriller",
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/UbqKgHISX2yxGI_UfPieQg/580x326.webp"
+    },
+    {
+      "id": 12,
+      "title": "Presumed Innocent",
+      "type": "TV Show",
+      "genre": "Crime",
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/p-dFQhrrenz0eg8_smgu9w/580x326.webp"
+    },
+    {
+      "id": 13,
+      "title": "Monarch Legacy of Monsters",
+      "type": "TV Show",
+      "genre": "Nonfiction",
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/mZsXfk4apSIl3Q5QZqztiQ/580x326.webp"
+    },
+    {
+      "id": 14,
+      "title": "Hijack",
+      "type": "TV Show",
+      "genre": "Thriller",
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/TFK62rQMTTWVNoPgxjIkPQ/580x326.webp"
+    },
+    {
+      "id": 15,
+      "title": "For All Mankind",
+      "type": "TV Show",
+      "genre": "Dramas",
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/q8QlFpnNct0G9kpRmyMyNw/580x326.webp"
+    },
+    {
+      "id": 16,
+      "title": "Dark Matter",
+      "type": "TV Show",
+      "genre": "Sci-Fi",
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/XRVC0LFY33UhYRJc3uusMA/580x326.webp"
+    },
+    {
+      "id": 17,
+      "title": "Servant",
+      "type": "TV Show",
+      "genre": "Thriller",
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/Jj8T9VNcfHfMQ4fDwp31-Q/580x326.webp"
+    },
+    {
+      "id": 18,
+      "title": "Foundation of Youth",
+      "type": "Movie",
+      "genre": "Dramas",
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/4UEcdeb6Xoc40fhFSAr3Og/580x326.webp"
+    },
+    {
+      "id": 19,
+      "title": "The George",
+      "type": "Movie",
+      "genre": "Dramas",
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/3pfG0GJkoI0OFlPiIDdvUQ/580x326.webp"
+    },
+    {
+      "id": 20,
+      "title": "Defending Jacob",
+      "type": "TV Show",
+      "genre": "Dramas",
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/duRc0KX4rW2jDyra_XCrIw/580x326.webp"
+    }
+  ]
+}
