@@ -4,10 +4,7 @@ import muteIcon from "../assets/mute.png";
 import unmuteIcon from "../assets/vol.png";
 import playIcon from "../assets/play.png";
 import pauseIcon from "../assets/pause2.png";
-import mlst1 from "../assets/mlst1.mp4";
-import mlst2 from "../assets/mlst2.mp4";
-import mlst3 from "../assets/mlst3.mp4";
-import mlst4 from "../assets/mlst4.mp4";
+
 
 // MLS-specific banners
 const mlsBanners = [
@@ -18,7 +15,7 @@ const mlsBanners = [
     genre: "Sports · Football · Live",
     poster:
       "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/57/16/e7/5716e7f6-4937-3e25-71e1-3b99ae34ff46/47574a06-bf40-454b-8ced-6aedad35bdd0.png/2400x1350sr.webp",
-    trailer: mlst1,
+    trailer:"/assets/mlst1.mp4",
   },
   {
     title: "VANCOUVER VS PORTLAND",
@@ -27,7 +24,7 @@ const mlsBanners = [
     genre: "Sports · Football · Highlights",
     poster:
       "https://is1-ssl.mzstatic.com/image/thumb/meDKQeCTgoXET0sM53qMpg/2400x1350sr.webp",
-    trailer: mlst2,
+    trailer: "/assets/mlst2.mp4",
   },
    {
     title: "NEW YORK CITY VS MIAMI",
@@ -36,7 +33,7 @@ const mlsBanners = [
     genre: "25 Sept 2025",
     poster:
       "https://is1-ssl.mzstatic.com/image/thumb/FxTfB0180bSTgXjOiTs5zg/2400x1350sr.webp",
-    trailer: mlst3,
+    trailer: "/assets/mlst3.mp4",
   },
    {
     title: "CINCINNATI VS ORLANDO",
@@ -45,7 +42,7 @@ const mlsBanners = [
     genre: "MLS",
     poster:
       "https://is1-ssl.mzstatic.com/image/thumb/FpAUkEMu4ouVxHNfonFCkw/2400x1350sr.webp",
-    trailer: mlst4,
+    trailer: "/assets/mlst4.mp4",
   },
    {
     title: "SEATTLE VS VANCOUVER",
@@ -54,7 +51,7 @@ const mlsBanners = [
     genre: "MLS",
     poster:
       "https://is1-ssl.mzstatic.com/image/thumb/KoSo2aYDtfe-iPM-m1uMfw/2400x1350sr.webp",
-    trailer: mlst3,
+    trailer: "/assets/mlst3.mp4",
   },
   // Add more MLS banners if needed
 ];

@@ -1,17 +1,11 @@
 import React, { useState, useEffect, useRef } from "react";
 import logo from "../assets/logo.png";
-import trailer1 from "../assets/chief.mp4";
-import trailer2 from "../assets/trailer2.mp4";
-import trailer3 from "../assets/trailer3.mp4";
-import trailer4 from "../assets/trailer4.mp4";
-import trailer5 from "../assets/trailer5.mp4";
-import trailer6 from "../assets/trailer6.mp4";
 import muteIcon from "../assets/mute.png";
 import unmuteIcon from "../assets/vol.png";
 import playIcon from "../assets/play.png";
 import pauseIcon from "../assets/pause2.png";
 
-const banners =[
+const banners = [
   {
     title: "CHIEF OF WAR",
     subtitle: "JASON MOMOA",
@@ -20,55 +14,55 @@ const banners =[
     genre: "TV Show · Drama · Action · A",
     poster:
       "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a5/5b/a7/a55ba76d-1bf8-bc8c-acb5-538e094d51d1/29e2b5b9-20b5-4ef1-ab5b-3ade160bd64d.png/2400x1350sr.webp",
-    trailer: trailer1,
+    trailer: "/assets/chief.mp4",
   },
   {
     title: "The Morning Show",
     subtitle: "",
-    description: "Scandals,affairs,conspiriacies,And that's just a new team.",
+    description: "Scandals, affairs, conspiracies, and that's just a new team.",
     genre: "TV Show · Drama A",
     poster:
       "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/2b/28/ac/2b28ac53-7e93-464b-11be-8f1dfe640462/5e0ae92a-0694-48aa-861a-583964a09d7c.png/2400x1350sr.webp",
-    trailer: trailer2,
+    trailer: "/assets/trailer2.mp4",
   },
-    {
+  {
     title: "Slow Horses",
     subtitle: "",
-    description: "Unprecedented chaos erupts when a string of attacks targets MI5 and all of London.",
-    genre: "TV Show · Thriller . Drama A ",
+    description:
+      "Unprecedented chaos erupts when a string of attacks targets MI5 and all of London.",
+    genre: "TV Show · Thriller · Drama A",
     poster:
       "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/5b/21/76/5b21769b-cdb2-2e98-fa8f-dbcd39148dff/86fc7ed9-096e-4b4b-a9be-bc768b3d59ac.png/2400x1350sr.webp",
-    trailer: trailer3,
+    trailer: "/assets/trailer3.mp4",
   },
-    {
+  {
     title: "The Studio",
     subtitle: "",
     description: "Seth Rogen stars in an outrageous showbiz satire.",
-    genre: "TV Show · Comedy  A",
+    genre: "TV Show · Comedy A",
     poster:
       "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/62/ff/5a/62ff5a63-d433-12ce-815f-061534e98b62/6c90d766-7581-4539-963e-db9447efadbd.png/2400x1350sr.webp",
-    trailer: trailer4,
+    trailer: "/assets/trailer4.mp4",
   },
-    {
+  {
     title: "Platonic",
     subtitle: "",
     description: "Some friends bring out the best in us—and the worst.",
-    genre: "TV Show · Comedy  Ar",
+    genre: "TV Show · Comedy A",
     poster:
       "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/be/5d/b2/be5db2ca-fb4d-2663-a503-959e0ede7655/c7e0a22b-2632-42d2-ac97-a5090d991e4d.png/2400x1350sr.webp",
-    trailer: trailer5,
+    trailer: "/assets/trailer5.mp4",
   },
-    {
+  {
     title: "Smoke",
     subtitle: "",
     description: "Description for Movie 2",
     genre: "Action · Thriller",
     poster:
       "https://is1-ssl.mzstatic.com/image/thumb/hSl3JWUuY4c1SoHEt9MI6Q/2400x1350sr.webp",
-    trailer: trailer6,
+    trailer: "/assets/trailer6.mp4",
   },
 ];
-
 
 function BannerSlider() {
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -164,11 +158,11 @@ function BannerSlider() {
       >
         <span className="max-w-[190px] bg-black text-white text-xs font-medium px-2 py-1 rounded-full border border-white inline-flex items-center justify-center">
           {banner.title === "CHIEF OF WAR" && "New Episode Every Friday"}
-    {banner.title === "The Morning Show" && "New Episode Every Wednesday"}
-    {banner.title === "Slow Horses" && "New Season"}
-    {banner.title === "The Studio" && "2025 Emmy Winner"}
-    {banner.title === "Platonic" && "New Episode Every Wednesday"}
-    {banner.title === "Smoke" && "Now Streaming"}
+          {banner.title === "The Morning Show" && "New Episode Every Wednesday"}
+          {banner.title === "Slow Horses" && "New Season"}
+          {banner.title === "The Studio" && "2025 Emmy Winner"}
+          {banner.title === "Platonic" && "New Episode Every Wednesday"}
+          {banner.title === "Smoke" && "Now Streaming"}
         </span>
 
         <div style={{ marginLeft: "35px" }} className="flex flex-col items-start mt-2">
@@ -204,41 +198,41 @@ function BannerSlider() {
         </div>
 
         {/* Navigation Dots */}
-<div className="absolute bottom-10 left-1/2 transform -translate-x-1/2">
-  <div className="flex gap-2 bg-black/60 px-4 py-2 rounded-full">
-    {banners.map((_, idx) => (
-      <span
-        key={idx}
-        onClick={() => goToBanner(idx)}
-        className={`w-3 h-3 rounded-full cursor-pointer transition-colors duration-300 ${
-          idx === currentIndex ? "bg-white" : "bg-gray-500/50"
-        }`}
-      ></span>
-    ))}
-  </div>
-</div>
-
-      {/* Pause & Mute buttons */}
-      {!showPoster && (
-        <div className="absolute bottom-6 right-6 flex flex-row gap-4">
-          <button
-            onClick={togglePause}
-            className="w-10 h-10 flex items-center justify-center rounded-full bg-black/10 border border-white"
-          >
-            <img src={isPaused ? playIcon : pauseIcon} alt={isPaused ? "Play" : "Pause"} className="w-5 h-5 object-contain" />
-          </button>
-
-          <button
-            onClick={toggleMute}
-            className="w-10 h-10 flex items-center justify-center rounded-full bg-black/30 border border-white"
-          >
-            <img src={isMuted ? muteIcon : unmuteIcon} alt={isMuted ? "Muted" : "Unmuted"} className="w-5 h-5 object-contain" />
-          </button>
+        <div className="absolute bottom-10 left-1/2 transform -translate-x-1/2">
+          <div className="flex gap-2 bg-black/60 px-4 py-2 rounded-full">
+            {banners.map((_, idx) => (
+              <span
+                key={idx}
+                onClick={() => goToBanner(idx)}
+                className={`w-3 h-3 rounded-full cursor-pointer transition-colors duration-300 ${
+                  idx === currentIndex ? "bg-white" : "bg-gray-500/50"
+                }`}
+              ></span>
+            ))}
+          </div>
         </div>
-      )}
-    </div>
+
+        {/* Pause & Mute buttons */}
+        {!showPoster && (
+          <div className="absolute bottom-6 right-6 flex flex-row gap-4">
+            <button
+              onClick={togglePause}
+              className="w-10 h-10 flex items-center justify-center rounded-full bg-black/10 border border-white"
+            >
+              <img src={isPaused ? playIcon : pauseIcon} alt={isPaused ? "Play" : "Pause"} className="w-5 h-5 object-contain" />
+            </button>
+
+            <button
+              onClick={toggleMute}
+              className="w-10 h-10 flex items-center justify-center rounded-full bg-black/30 border border-white"
+            >
+              <img src={isMuted ? muteIcon : unmuteIcon} alt={isMuted ? "Muted" : "Unmuted"} className="w-5 h-5 object-contain" />
+            </button>
+          </div>
+        )}
+      </div>
     </div>
   );
 }
 
-export default BannerSlider;
+export default Banner

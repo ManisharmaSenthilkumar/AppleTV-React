@@ -16,29 +16,28 @@ function App() {
       <div className="w-[1920px] bg-white ">
     <WatchlistProvider>   {/* ✅ wrap everything here */}
       <BrowserRouter>
-        <Navbar />
+   
         <div className="pt-[66px]">
-          <Routes>
-            {/* Home Page */}
-            <Route
-              path="/"
-              element={
-                <>
-                  <Banner />
-                  <AppleTV />
-                  <SeasonPassBanner />
-                </>
-              }
-            />
+         <Routes>
+  {/* Default: redirect / to /AppleTV */}
+  <Route path="/" element={<Navigate to="/AppleTV" replace />} />
 
-            {/* MLS Page */}
-            <Route path="/MLS" element={<><MLSSlider /><MLS /> <SeasonPassBanner /></>} />
+  {/* AppleTV Page */}
+  <Route path="/AppleTV" element={
+    <>
+      <Banner />
+      <AppleTV />
+      <SeasonPassBanner />
+    </>
+  } />
 
-            {/* Dynamic Category Page */}
-            <Route path="/category/:categoryName" element={<CategoryPage />} />
-            <Route path="/category/genre/:genreName" element={<CategoryPage />} />
+  {/* MLS Page */}
+  <Route path="/MLS" element={<><MLSSlider /><MLS /> <SeasonPassBanner /></>} />
 
-          </Routes>
+  {/* Dynamic Category Pages */}
+  <Route path="/category/:categoryName" element={<CategoryPage />} />
+  <Route path="/category/genre/:genreName" element={<CategoryPage />} />
+</Routes>
         </div>
       </BrowserRouter>
     </WatchlistProvider>
