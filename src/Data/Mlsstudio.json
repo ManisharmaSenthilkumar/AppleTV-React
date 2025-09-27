@@ -1,0 +1,120 @@
+{
+  "mlsstudio": [
+    {
+      "id": 1,
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/Mv9jPU-oDSLRKrCYwfS4MQ/580x326.webp",
+      "teams": "MLS Wrap-Up",
+      "date": "22 Sept 2025",
+      "competition": "MLS"
+    },
+    {
+      "id": 2,
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/M5BeXVsn431N-lormVScDg/580x326.webp",
+      "teams": "MLS El Resumen",
+      "date": "22 Sept 2025",
+      "competition": "MLS"
+    },
+    {
+      "id": 3,
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/fbkpELHbbgYBdjQihZcJLQ/580x326.webp",
+      "teams": "MLS 360",
+      "date": "21 Sept 2025",
+      "competition": "MLS"
+    },
+    {
+      "id": 4,
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/PiXtHh-QKTZzIqL-LWyj9g/580x326.webp",
+      "teams": "MLS 360 En Español",
+      "date": "21 Sept 2025",
+      "competition": "MLS"
+    },
+    {
+      "id": 5,
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/G7Yq6vP0EjwQi--encVr2w/580x326sh.webp",
+      "teams": "MLS Countdown",
+      "date": "SUN 04:00",
+      "competition": "MLS"
+     
+    },
+    {
+      "id": 6,
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/-e_9U4mRt8Yut_B4pCw1Mg/580x326sh.webp",
+      "teams": "MLS La Previa",
+      "date": "SUN 04:00",
+      "competition": "MLS"
+    
+    },
+    {
+      "id": 7,
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/bkTGyilBNdEGiAIaFlEKJw/580x326sh.webp",
+      "teams": "MLS 360",
+      "date": "SUN 05:00",
+      "competition": "MLS"
+    
+    },
+    {
+      "id": 8,
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/00ZvMKgelk7g1CEF-NgEJw/580x326sh.webp",
+      "teams": "MLS 360 En Español",
+      "date": "SUN 05:00",
+      "competition": "MLS"
+    
+    },
+    {
+      "id": 9,
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/G7Yq6vP0EjwQi--encVr2w/580x326sh.webp",
+      "teams": "MLS Countdown",
+      "date": "MON 03:30",
+      "competition": "MLS"
+     
+    },
+    {
+      "id": 10,
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/-e_9U4mRt8Yut_B4pCw1Mg/580x326sh.webp",
+      "teams": "MLS La Previa",
+      "date": "MON 03:30",
+      "competition": "MLS"
+      
+    },
+    {
+      "id": 11,
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/ICIRSO8r8EAkvOfWt2QfYg/580x326sh.webp",
+      "teams": "MLS Wrap-Up",
+      "date": "MON 07:00",
+      "competition": "MLS"
+      
+    },
+    {
+      "id": 12,
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/N8xsQ0yxvYz1ImkolUtrGg/580x326sh.webp",
+      "teams": "MLS El Resumen",
+      "date": "MON 07:00",
+      "competition": "MLS"
+    
+    },
+    {
+      "id": 13,
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/G7Yq6vP0EjwQi--encVr2w/580x326sh.webp",
+      "teams": "MLS Countdown",
+      "date": "5 OCT 2025",
+      "competition": "MLS"
+    
+    },
+    {
+      "id": 14,
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/-e_9U4mRt8Yut_B4pCw1Mg/580x326sh.webp",
+      "teams": "MLS La Previa",
+      "date": "5 OCT 2025",
+      "competition": "MLS"
+     
+    },
+    {
+      "id": 15,
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/bkTGyilBNdEGiAIaFlEKJw/580x326sh.webp",
+      "teams": "MLS 360",
+      "date": "5 OCT 2025",
+      "competition": "MLS"
+    
+    }
+  ]
+}

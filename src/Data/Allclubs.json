@@ -1,0 +1,33 @@
+{
+    "Clubs" :[
+  {"id": 1, "name": "Atlanta United", "poster": "https://is1-ssl.mzstatic.com/image/thumb/d6U0-AroyEyn1K7zL7Z_bg/320x320Sports.TPTLC01.webp?color=%239D2235" },
+  {"id": 2, "name": "Austin FC", "poster": "https://is1-ssl.mzstatic.com/image/thumb/Kj3JcvFIDBst-Koz6E5ieQ/320x320Sports.TPTLC01.webp?color=%2300B140" },
+  {"id": 3, "name": "Charlotte FC", "poster": "https://is1-ssl.mzstatic.com/image/thumb/EeCHZjYuAt7qU_KZvk0hRg/320x320Sports.TPTLC01.webp?color=%230085CF" },
+  {"id": 4, "name": "Chicago Fire", "poster": "https://is1-ssl.mzstatic.com/image/thumb/3E-uqL1yQLu8A0lXIXjdsA/320x320Sports.TPTLC01.webp?color=%23FF0000" },
+  {"id": 5, "name": "Cincinnati", "poster": "https://is1-ssl.mzstatic.com/image/thumb/UqxnaIq_FYW9AFeYTOPLCA/320x320Sports.TPTLC01.webp?color=%23FE5000" },
+  {"id": 6, "name": "Colorado", "poster": "https://is1-ssl.mzstatic.com/image/thumb/3snDh61DqRjCu8RWad-zHA/320x320Sports.TPTLC01.webp?color=%238A2432" },
+  {"id": 7, "name": "Columbus", "poster": "https://is1-ssl.mzstatic.com/image/thumb/c-Q5tkhZXB6SDr-gNGFgEw/320x320Sports.TPTLC01.webp?color=%23000000" },
+  {"id": 8, "name": "Dallas", "poster": "https://is1-ssl.mzstatic.com/image/thumb/t2NgSO_ylKAUWwdA0oo5CQ/320x320Sports.TPTLC01.webp?color=%23C6093B" },
+  {"id": 9, "name": "D.C.", "poster": "https://is1-ssl.mzstatic.com/image/thumb/TF8RFnansqvKc2dQykZf1Q/320x320Sports.TPTLC01.webp?color=%23000000" },
+  {"id": 10, "name": "Houston", "poster": "https://is1-ssl.mzstatic.com/image/thumb/CNMN8DbpdpCJPfNSa1C6_Q/320x320Sports.TPTLC01.webp?color=%23FF6900" },
+  {"id": 11, "name": "Kansas City", "poster": "https://is1-ssl.mzstatic.com/image/thumb/_HFMpJoh7k3NnHG5kFxiXw/320x320Sports.TPTLC01.webp?color=%230C2340" },
+  {"id": 12, "name": "LA", "poster": "https://is1-ssl.mzstatic.com/image/thumb/_-Sk811KTLUXYvd9llD6SA/320x320Sports.TPTLC01.webp?color=%2313294B" },
+  {"id": 13, "name": "LAFC", "poster": "https://is1-ssl.mzstatic.com/image/thumb/rNrQuDny5iiTxp7_CGq74w/320x320Sports.TPTLC01.webp?color=%23000000" },
+  {"id": 14, "name": "Minnesota", "poster": "https://is1-ssl.mzstatic.com/image/thumb/gBzEBHuy800AMDC-xLTIgQ/320x320Sports.TPTLC01.webp?color=%239bcde4" },
+  {"id": 15, "name": "Montreal", "poster": "https://is1-ssl.mzstatic.com/image/thumb/oFLEPNLkQk3lMq0RsdQfBA/320x320Sports.TPTLC01.webp?color=%23003DA6" },
+  {"id": 16, "name": "Nashville", "poster": "https://is1-ssl.mzstatic.com/image/thumb/5dbchuK0JS0hLwf8YuDBJQ/320x320Sports.TPTLC01.webp?color=%23EDE939" },
+  {"id": 17, "name": "New England", "poster": "https://is1-ssl.mzstatic.com/image/thumb/054Rt8pmB4SA9LiqrhB2Jg/320x320Sports.TPTLC01.webp?color=%230A2240" },
+  {"id": 18, "name": "New York", "poster": "https://is1-ssl.mzstatic.com/image/thumb/bz0x-YVg5EQ6ZnbhNFLgsQ/320x320Sports.TPTLC01.webp?color=%23D71B38" },
+  {"id": 19, "name": "New York City", "poster": "https://is1-ssl.mzstatic.com/image/thumb/1ep2CNk0GNmoCnH4_RZ8wQ/320x320Sports.TPTLC01.webp?color=%239FD2FF" },
+  {"id": 20, "name": "Orlando", "poster": "https://is1-ssl.mzstatic.com/image/thumb/gNhQYLuiFBBNEtiBscKCPQ/320x320Sports.TPTLC01.webp?color=%2361259E" },
+  {"id": 21, "name": "Philadelphia", "poster": "https://is1-ssl.mzstatic.com/image/thumb/iXIxevYDAkD1eA4nIOcs9Q/320x320Sports.TPTLC01.webp?color=%23041C2C" },
+  {"id": 22, "name": "Portland", "poster": "https://is1-ssl.mzstatic.com/image/thumb/6MhXD8E85SMjttv3Fakzhw/320x320Sports.TPTLC01.webp?color=%23004812" },
+  {"id": 23, "name": "Salt Lake", "poster": "https://is1-ssl.mzstatic.com/image/thumb/zmhMReO6B9qg6BroocH15w/320x320Sports.TPTLC01.webp?color=%23001E61" },
+  {"id": 24, "name": "San Diego", "poster": "https://is1-ssl.mzstatic.com/image/thumb/PGXDhfWKnXAYCtPHjX1MqA/320x320Sports.TPTLC01.webp?color=%2306172B" },
+  {"id": 25, "name": "San Jose", "poster": "https://is1-ssl.mzstatic.com/image/thumb/acRQ15i52tjFlbJUdOqi0g/320x320Sports.TPTLC01.webp?color=%230051BA" },
+  {"id": 26, "name": "Seattle", "poster": "https://is1-ssl.mzstatic.com/image/thumb/YqTqMawsckTZlDhyHBlGug/320x320Sports.TPTLC01.webp?color=%232DC84D" },
+  {"id": 27, "name": "St. Louis", "poster": "https://is1-ssl.mzstatic.com/image/thumb/LXdtAgsFTppgIi7bdUChUw/320x320Sports.TPTLC01.webp?color=%23e80a4d" },
+  {"id": 28, "name": "Toronto", "poster": "https://is1-ssl.mzstatic.com/image/thumb/GBjbc7VO-TsNONP5-ORZwg/320x320Sports.TPTLC01.webp?color=%23AE132A" },
+  {"id": 29, "name": "Vancouver", "poster": "https://is1-ssl.mzstatic.com/image/thumb/whZT0iHRnHcmqhBFXwK0MQ/320x320Sports.TPTLC01.webp?color=%23202C4C" }
+]
+}
