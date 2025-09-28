@@ -153,7 +153,7 @@ function BannerSlider() {
 
       {/* Overlay */}
       <div
-        style={{ top: "617px", left: "28px", right: "0px" }}
+        style={{ top: "84vh", left: "2vw", right: "0" }}
         className="absolute flex flex-col gap-2 md:gap-4 p-6"
       >
         <span className="max-w-[190px] bg-black text-white text-xs font-medium px-2 py-1 rounded-full border border-white inline-flex items-center justify-center">
