@@ -15,13 +15,13 @@ function App() {
         <div className="flex justify-center bg-white min-h-screen">
       <div className="w-[1920px] bg-white ">
     <WatchlistProvider>   {/* ✅ wrap everything here */}
-      <BrowserRouter>
+      <BrowserRouter basename="/AppleTV-React">
         <Navbar />
         <div className="pt-[66px]">
           <Routes>
             {/* Home Page */}
             <Route
-              path="/AppleTV-React/"
+              path="/"
               element={
                 <>
                   <Banner />
