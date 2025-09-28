@@ -14,7 +14,7 @@ const banners =[
     genre: "TV Show · Drama · Action · A",
     poster:
       "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a5/5b/a7/a55ba76d-1bf8-bc8c-acb5-538e094d51d1/29e2b5b9-20b5-4ef1-ab5b-3ade160bd64d.png/2400x1350sr.webp",
-    trailer: import.meta.env.BASE_URL + "assets/Chief.mp4",
+    trailer: "https://res.cloudinary.com/dln6yimph/video/upload/v1759049222/Chief_wmoxod.mp4",
   },
   {
     title: "The Morning Show",
@@ -23,7 +23,7 @@ const banners =[
     genre: "TV Show · Drama A",
     poster:
       "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/2b/28/ac/2b28ac53-7e93-464b-11be-8f1dfe640462/5e0ae92a-0694-48aa-861a-583964a09d7c.png/2400x1350sr.webp",
-    trailer: import.meta.env.BASE_URL + "assets/trailer2.mp4", 
+    trailer: "https://res.cloudinary.com/dln6yimph/video/upload/v1759049435/trailer2_bkae4n.mp4", 
   },
     {
     title: "Slow Horses",
@@ -32,7 +32,7 @@ const banners =[
     genre: "TV Show · Thriller . Drama A ",
     poster:
       "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/5b/21/76/5b21769b-cdb2-2e98-fa8f-dbcd39148dff/86fc7ed9-096e-4b4b-a9be-bc768b3d59ac.png/2400x1350sr.webp",
-    trailer: import.meta.env.BASE_URL + "assets/trailer3.mp4", 
+    trailer: "https://res.cloudinary.com/dln6yimph/video/upload/v1759049517/trailer3_wigmjw.mp4", 
   },
     {
     title: "The Studio",
@@ -41,7 +41,7 @@ const banners =[
     genre: "TV Show · Comedy  A",
     poster:
       "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/62/ff/5a/62ff5a63-d433-12ce-815f-061534e98b62/6c90d766-7581-4539-963e-db9447efadbd.png/2400x1350sr.webp",
-    trailer: import.meta.env.BASE_URL + "assets/trailer4.mp4", 
+    trailer: "https://res.cloudinary.com/dln6yimph/video/upload/v1759049516/trailer4_dhkuyb.mp4", 
   },
     {
     title: "Platonic",
@@ -50,7 +50,7 @@ const banners =[
     genre: "TV Show · Comedy  Ar",
     poster:
       "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/be/5d/b2/be5db2ca-fb4d-2663-a503-959e0ede7655/c7e0a22b-2632-42d2-ac97-a5090d991e4d.png/2400x1350sr.webp",
-    trailer: import.meta.env.BASE_URL + "assets/trailer5.mp4", 
+    trailer: "https://res.cloudinary.com/dln6yimph/video/upload/v1759049552/trailer5_ojugru.mp4", 
   },
     {
     title: "Smoke",
@@ -59,7 +59,7 @@ const banners =[
     genre: "Action · Thriller",
     poster:
       "https://is1-ssl.mzstatic.com/image/thumb/hSl3JWUuY4c1SoHEt9MI6Q/2400x1350sr.webp",
-    trailer: import.meta.env.BASE_URL + "assets/trailer6.mp4", 
+    trailer: "https://res.cloudinary.com/dln6yimph/video/upload/v1759049524/trailer6_rn6lni.mp4", 
   },
 ];
 
