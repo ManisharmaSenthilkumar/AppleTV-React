@@ -21,7 +21,7 @@ function App() {
           <Routes>
             {/* Home Page */}
             <Route
-              path="/"
+              path="/AppleTV-React/"
               element={
                 <>
                   <Banner />
