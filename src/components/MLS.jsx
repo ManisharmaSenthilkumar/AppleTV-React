@@ -42,15 +42,15 @@ function MLS() {
 
   // Fetch all JSON data on mount
   useEffect(() => {
-    fetchJSON("/Data/Matches.json", setLiveMatches);
-    fetchJSON("/Data/Allclubs.json", setUpcomingMatches);
-    fetchJSON("/Data/hroic.json", setHroic);
-    fetchJSON("/Data/stories.json", setTopPlayers);
-    fetchJSON("/Data/matchmoments.json", setHighlights);
-    fetchJSON("/Data/pastmatches.json", setTeams);
-    fetchJSON("/Data/bigc.json", setBigc);
-    fetchJSON("/Data/sfatl.json", setFavorites);
-    fetchJSON("/Data/Mlsstudio.json", setMlsis);
+    fetchJSON(import.meta.env.BASE_URL +"Data/Matches.json", setLiveMatches);
+    fetchJSON(import.meta.env.BASE_URL +"Data/Allclubs.json", setUpcomingMatches);
+    fetchJSON(import.meta.env.BASE_URL +"Data/hroic.json", setHroic);
+    fetchJSON(import.meta.env.BASE_URL +"Data/stories.json", setTopPlayers);
+    fetchJSON(import.meta.env.BASE_URL +"Data/matchmoments.json", setHighlights);
+    fetchJSON(import.meta.env.BASE_URL +"Data/pastmatches.json", setTeams);
+    fetchJSON(import.meta.env.BASE_URL +"Data/bigc.json", setBigc);
+    fetchJSON(import.meta.env.BASE_URL +"Data/sfatl.json", setFavorites);
+    fetchJSON(import.meta.env.BASE_URL +"Data/Mlsstudio.json", setMlsis);
   }, []);
 
   // Render a section with optional arrow and custom card props
