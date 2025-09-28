@@ -14,7 +14,7 @@ const mlsBanners = [
     genre: "Sports · Football · Live",
     poster:
       "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/57/16/e7/5716e7f6-4937-3e25-71e1-3b99ae34ff46/47574a06-bf40-454b-8ced-6aedad35bdd0.png/2400x1350sr.webp",
-    trailer: import.meta.env.BASE_URL + "assets/mlst1.mp4",
+    trailer: "https://res.cloudinary.com/dln6yimph/video/upload/v1759049200/mlst1_ki6ic9.mp4",
   },
   {
     title: "VANCOUVER VS PORTLAND",
@@ -23,7 +23,7 @@ const mlsBanners = [
     genre: "Sports · Football · Highlights",
     poster:
       "https://is1-ssl.mzstatic.com/image/thumb/meDKQeCTgoXET0sM53qMpg/2400x1350sr.webp",
-    trailer: import.meta.env.BASE_URL + "assets/mlst2.mp4",
+    trailer: "https://res.cloudinary.com/dln6yimph/video/upload/v1759049550/mlst2_icifwe.mp4",
   },
    {
     title: "NEW YORK CITY VS MIAMI",
@@ -32,7 +32,7 @@ const mlsBanners = [
     genre: "25 Sept 2025",
     poster:
       "https://is1-ssl.mzstatic.com/image/thumb/FxTfB0180bSTgXjOiTs5zg/2400x1350sr.webp",
-    trailer: import.meta.env.BASE_URL + "assets/mlst3.mp4",
+    trailer: "https://res.cloudinary.com/dln6yimph/video/upload/v1759049612/mlst3_n4c9pw.mp4",
   },
    {
     title: "CINCINNATI VS ORLANDO",
@@ -41,7 +41,7 @@ const mlsBanners = [
     genre: "MLS",
     poster:
       "https://is1-ssl.mzstatic.com/image/thumb/FpAUkEMu4ouVxHNfonFCkw/2400x1350sr.webp",
-    trailer: import.meta.env.BASE_URL + "assets/mlst4.mp4",
+    trailer: "https://res.cloudinary.com/dln6yimph/video/upload/v1759049638/mlst4_e97agu.mp4",
   },
    {
     title: "SEATTLE VS VANCOUVER",
@@ -50,7 +50,7 @@ const mlsBanners = [
     genre: "MLS",
     poster:
       "https://is1-ssl.mzstatic.com/image/thumb/KoSo2aYDtfe-iPM-m1uMfw/2400x1350sr.webp",
-    trailer: import.meta.env.BASE_URL + "assets/mlst3.mp4",
+    trailer: "https://res.cloudinary.com/dln6yimph/video/upload/v1759049612/mlst3_n4c9pw.mp4",
   },
   // Add more MLS banners if needed
 ];
